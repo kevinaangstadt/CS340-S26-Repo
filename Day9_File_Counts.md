@@ -21,7 +21,7 @@ Task: submit a PR with the number of files contained in your home directory
 | Hunter   |            |
 | Jack     |            |
 | Justin   |            |
-| Keady    |            |
+| Keady    |   14343    |
 | Lala     |            |
 | Leon     |            |
 | Luke     |            |
