@@ -24,7 +24,7 @@ Task: submit a PR with the number of files contained in your home directory
 | Keady    |            |
 | Lala     |            |
 | Leon     |            |
-| Luke     |            |
+| Luke     |   26417    |
 | Manti    |            |
 | Mary     |            |
 | MJ       |            |
