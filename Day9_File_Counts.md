@@ -31,7 +31,7 @@ Task: submit a PR with the number of files contained in your home directory
 | Nikolai  | 16060      |
 | Njeri    |            |
 | Oakley   |            |
-| Oliver   |            |
+| Oliver   | 3995       |
 | Siadhal  |            |
 | Spencer  |            |
 | Thomas   |            |
