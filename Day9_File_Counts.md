@@ -14,7 +14,7 @@ Task: submit a PR with the number of files contained in your home directory
 | Chris    |            |
 | Foster   |            |
 | George   |            |
-| Georgios |            |
+| Georgios |   18425    |
 | Gunnar   |            |
 | Harper   |            |
 | Honey    |            |
