@@ -28,7 +28,7 @@ Task: submit a PR with the number of files contained in your home directory
 | Manti    |            |
 | Mary     |            |
 | MJ       |            |
-| Nikolai  |            |
+| Nikolai  | 16060      |
 | Njeri    |            |
 | Oakley   |            |
 | Oliver   |            |
