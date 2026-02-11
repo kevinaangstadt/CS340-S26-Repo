@@ -33,5 +33,5 @@ Task: submit a PR with the number of files contained in your home directory
 | Oakley   |            |
 | Oliver   |            |
 | Siadhal  |            |
-| Spencer  |            |
+| Spencer  |    22      |
 | Thomas   |            |
