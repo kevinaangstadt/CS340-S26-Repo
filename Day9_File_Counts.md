@@ -25,7 +25,7 @@ Task: submit a PR with the number of files contained in your home directory
 | Lala     |            |
 | Leon     |            |
 | Luke     |            |
-| Manti    |            |
+| Manti    | 2          |
 | Mary     |            |
 | MJ       |            |
 | Nikolai  |            |
