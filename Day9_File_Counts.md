@@ -12,7 +12,7 @@ Task: submit a PR with the number of files contained in your home directory
 | Ariana   |            |
 | Chris    |            |
 | Chris    |            |
-| Foster   |            |
+| Foster   |   18425    |
 | George   |            |
 | Georgios |            |
 | Gunnar   |            |
