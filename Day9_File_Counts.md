@@ -19,7 +19,7 @@ Task: submit a PR with the number of files contained in your home directory
 | Harper   |            |
 | Honey    |            |
 | Hunter   |            |
-| Jack     |            |
+| Jack     |   24772    |
 | Justin   |            |
 | Keady    |            |
 | Lala     |            |
