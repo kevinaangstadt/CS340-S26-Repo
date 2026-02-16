@@ -6,32 +6,32 @@ Task: submit a PR with the number of files contained in your home directory
 | Name     | File Count |
 | -------- | ---------- |
 | Alex     |            |
-| Andraz   |            |
+| Andraz   |    18106   |
 | Andrew   |            |
 | Andrey   |            |
-| Ariana   |            |
+| Ariana   |    2       |
+| CJ       |   13328    |
 | Chris    |            |
-| Chris    |            |
-| Foster   |            |
+| Foster   |   18425    |
 | George   |            |
-| Georgios |            |
+| Georgios |   18425    |
 | Gunnar   |            |
-| Harper   |            |
-| Honey    |            |
+| Harper   |    24943   |
+| Honey    |   13938    |
 | Hunter   |            |
-| Jack     |            |
+| Jack     |   24772    |
 | Justin   |            |
-| Keady    |            |
-| Lala     |            |
+| Keady    |   14343    |
+| Lala     | 14145      |
 | Leon     |            |
-| Luke     |            |
-| Manti    |            |
+| Luke     |   26417    |
+| Manti    |    2       |
 | Mary     |   21874    |
 | MJ       |            |
-| Nikolai  |            |
+| Nikolai  | 16060      |
 | Njeri    |            |
 | Oakley   |            |
-| Oliver   |            |
+| Oliver   | 3995       |
 | Siadhal  |            |
-| Spencer  |            |
+| Spencer  |    22      |
 | Thomas   |            |
