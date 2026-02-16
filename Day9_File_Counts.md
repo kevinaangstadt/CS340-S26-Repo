@@ -22,7 +22,7 @@ Task: submit a PR with the number of files contained in your home directory
 | Jack     |            |
 | Justin   |            |
 | Keady    |   14343    |
-| Lala     |            |
+| Lala     | 14145      |
 | Leon     |            |
 | Luke     |   26417    |
 | Manti    |    2       |
