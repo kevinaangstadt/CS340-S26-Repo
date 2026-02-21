@@ -19,7 +19,7 @@ class TestAbsoluteFlipper(unittest.TestCase):
      
      def test_bad_input(self):
           with self.assertRaises(TypeError):
-               get_absolute_value("s")
+               get_absolute_value("1")
 
 
 if __name__ == '__main__':

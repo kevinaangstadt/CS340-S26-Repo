@@ -1,4 +1,6 @@
 def get_absolute_value(n):
+  
+    
     """
     Returns the absolute value of a number.
 
@@ -8,4 +10,8 @@ def get_absolute_value(n):
     Returns:
         float: The absolute value of n.
     """
-    return n * -1
+    try:
+        return float(abs(n))
+    except TypeError:
+        #If it cannot be abs then type error
+        raise TypeError
