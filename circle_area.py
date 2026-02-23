@@ -8,5 +8,6 @@ def calculate_area(radius):
     Returns:
         float: The area of the circle.
     """
+
     pi = 3.14
     return pi * radius ** 2
