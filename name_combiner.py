@@ -9,4 +9,11 @@ def combine_names(first, last):
     Returns:
         str: The full name string.
     """
-    return first + last
+    if first and last:
+        return first + " " + last
+    elif first:
+        return first
+    elif last:
+        return last
+    else:
+        return ""
