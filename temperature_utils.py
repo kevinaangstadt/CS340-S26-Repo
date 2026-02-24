@@ -1,4 +1,4 @@
-def to_fahrenheit(celsius):
+def to_fahrenheit(celsius: float) -> float:
     """
     Converts a temperature from Celsius to Fahrenheit.
 
@@ -8,4 +8,4 @@ def to_fahrenheit(celsius):
     Returns:
         float: Temperature in Fahrenheit.
     """
-    return (celsius * 9/5) - 32
+    return (celsius * 9/5) + 32
