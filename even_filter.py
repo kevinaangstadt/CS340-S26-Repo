@@ -8,4 +8,4 @@ def get_evens(numbers):
     Returns:
         list: A list containing only the even integers from the input.
     """
-    return [n for n in numbers if n % 2 == 1]
+    return [n for n in numbers if n % 2 == 0]
