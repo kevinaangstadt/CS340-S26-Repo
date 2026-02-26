@@ -11,4 +11,4 @@ def calculate_bmi(weight, height):
     Returns:
         float: The calculated BMI.
     """
-    return weight / height * height
+    return weight /( height * height)
