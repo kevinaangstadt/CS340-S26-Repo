@@ -9,4 +9,4 @@ def add_tax(subtotal, tax_rate):
     Returns:
         float: The final total.
     """
-    return subtotal * tax_rate
+    return subtotal * tax_rate + subtotal
