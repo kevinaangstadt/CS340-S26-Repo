@@ -12,6 +12,6 @@ def calculate_shipping(total_price):
     Returns:
         float: The shipping cost.
     """
-    if total_price > 50:
+    if total_price >= 50:
         return 0
     return 10
