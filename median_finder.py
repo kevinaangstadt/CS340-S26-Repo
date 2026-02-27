@@ -10,5 +10,9 @@ def find_median(numbers):
     Returns:
         float: The median value.
     """
-    middle_index = len(numbers) // 2
-    return numbers[middle_index]
+
+    sort = sorted(numbers);
+
+    middle_index = len(sort) // 2
+
+    return sort[middle_index]
