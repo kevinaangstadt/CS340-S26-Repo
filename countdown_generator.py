@@ -8,4 +8,5 @@ def generate_countdown(start):
     Returns:
         list: A list of integers counting down to 0.
     """
-    return list(range(start, 0, -1))
+    # return list(range(start, 0, -1))
+    return list(range(start, -1, -1))
