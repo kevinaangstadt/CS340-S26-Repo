@@ -9,4 +9,5 @@ def calculate_perimeter(length, width):
     Returns:
         float: The perimeter.
     """
-    return length + width
+    return (length + width) * 2
+    
