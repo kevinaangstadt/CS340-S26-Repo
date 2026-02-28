@@ -15,7 +15,7 @@ def classify_age(age):
     """
     if age < 13:
         return "Child"
-    elif age < 19:
+    elif age <= 19:
         return "Teen"
     else:
         return "Adult"
