@@ -8,7 +8,7 @@ def find_max(numbers):
     Returns:
         float: The maximum value found in the list.
     """
-    max_val = 0
+    max_val = numbers[0]
     for n in numbers:
         if n > max_val:
             max_val = n
