@@ -8,4 +8,4 @@ def is_passing(grade):
     Returns:
         bool: True if the grade is passing, False otherwise.
     """
-    return grade > 60
+    return grade >= 60
