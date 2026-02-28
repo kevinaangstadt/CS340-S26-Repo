@@ -9,4 +9,4 @@ def calculate_power(base, exponent):
     Returns:
         float: The result of base ^ exponent.
     """
-    return base * exponent
+    return base ** exponent
