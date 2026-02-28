@@ -10,6 +10,9 @@ class TestAgeClassifier(unittest.TestCase):
 
     def test_adult(self):
         self.assertEqual(classify_age(25), "Adult")
+    
+    def test_nineteen(self):
+        self.assertEqual(classify_age(19), "Teen")
 
 if __name__ == '__main__':
     unittest.main()
