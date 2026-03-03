@@ -8,5 +8,8 @@ class TestLeapYear(unittest.TestCase):
     def test_non_leap_year(self):
         self.assertFalse(is_leap_year(2023))
 
+    def test_century_non_leap_year(self):
+        self.assertFalse(is_leap_year(1900))
+
 if __name__ == '__main__':
     unittest.main()
