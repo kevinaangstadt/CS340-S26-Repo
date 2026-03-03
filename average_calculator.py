@@ -8,5 +8,8 @@ def calculate_average(numbers):
     Returns:
         float: The average value of the list.
     """
+    # Handle the case of an empty list to avoid division by zero
+    if not numbers:
+        return 0
     total = sum(numbers)
     return total / len(numbers)
