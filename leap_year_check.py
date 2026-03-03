@@ -8,4 +8,6 @@ def is_leap_year(year):
     Returns:
         bool: True if it is a leap year, False otherwise.
     """
+    if year % 100 == 0:
+        return year % 400 == 0
     return year % 4 == 0
