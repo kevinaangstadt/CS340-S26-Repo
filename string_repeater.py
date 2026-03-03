@@ -11,4 +11,6 @@ def repeat_string(s, n):
     Returns:
         str: The repeated (or reversed) string.
     """
+    if n < 0:
+        return s[::-1]
     return s * n
