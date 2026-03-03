@@ -12,6 +12,6 @@ def is_valid_password(password):
     Returns:
         bool: True if valid, False otherwise.
     """
-    if len(password) > 8 or any(char.isdigit() for char in password):
+    if len(password) > 8 and any(char.isdigit() for char in password):
         return True
     return False
