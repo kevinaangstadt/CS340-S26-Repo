@@ -9,4 +9,4 @@ def apply_discount(price, discount_percentage):
     Returns:
         float: The price after the discount is applied.
     """
-    return price * discount_percentage
+    return price * (1 - discount_percentage)
