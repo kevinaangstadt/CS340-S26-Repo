@@ -9,7 +9,5 @@ def remove_item(lst, item_to_remove):
     Returns:
         list: The modified list with items removed.
     """
-    for item in lst:
-        if item == item_to_remove:
-            lst.remove(item)
+    lst = [item for item in lst if item != item_to_remove]
     return lst
