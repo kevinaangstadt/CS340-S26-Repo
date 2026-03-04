@@ -6,5 +6,9 @@ class TestCSVStripper(unittest.TestCase):
         result = parse_csv_line("a,b,c")
         self.assertEqual(len(result), 3)
 
+    def test_newline_stripped(self):
+        result = parse_csv_line("a,b,c\n")
+        self.assertEqual(result[-1], "c")
+
 if __name__ == '__main__':
     unittest.main()
