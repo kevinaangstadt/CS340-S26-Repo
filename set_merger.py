@@ -9,4 +9,4 @@ def merge_datasets(set_a, set_b):
     Returns:
         set: The union of both sets.
     """
-    return set_a.intersection(set_b)
+    return set_a.union(set_b)
