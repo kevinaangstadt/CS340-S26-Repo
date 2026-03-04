@@ -7,5 +7,6 @@ class TestCircleArea(unittest.TestCase):
 
     def test_radius_three(self):
          self.assertAlmostEqual(calculate_area(3), 28.26)
+
 if __name__ == '__main__':
     unittest.main()
