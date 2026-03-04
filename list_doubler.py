@@ -8,4 +8,8 @@ def double_elements(numbers):
     Returns:
         list: A new list with each element multiplied by 2.
     """
-    return numbers * 2
+
+
+    return [i * 2 for i in numbers]
+        
+
