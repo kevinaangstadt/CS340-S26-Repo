@@ -10,4 +10,4 @@ def transcribe_dna(dna_string):
     Returns:
         str: The corresponding RNA sequence.
     """
-    return dna_string.replace('T', 'U')
+    return dna_string.upper().replace('T', 'U')
