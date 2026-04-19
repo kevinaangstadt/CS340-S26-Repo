@@ -9,13 +9,12 @@ def classify_age(age):
 
     Args:
         age (int): The age in years.
-
     Returns:
         str: The classification ('Child', 'Teen', or 'Adult').
     """
     if age < 13:
         return "Child"
-    elif age < 19:
+    elif age <= 19:
         return "Teen"
     else:
         return "Adult"
