@@ -8,5 +8,8 @@ class TestAverageCalculator(unittest.TestCase):
     def test_average_floats(self):
         self.assertEqual(calculate_average([1.5, 2.5, 3.5]), 2.5)
 
+    def test_average_empty_list(self):
+        self.assertEqual(calculate_average([]), 0)
+
 if __name__ == '__main__':
     unittest.main()
