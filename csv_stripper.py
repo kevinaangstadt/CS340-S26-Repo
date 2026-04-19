@@ -8,4 +8,4 @@ def parse_csv_line(line):
     Returns:
         list: A list of values extracted from the line.
     """
-    return line.split(",")
+    return line.strip("\n").split(",")
