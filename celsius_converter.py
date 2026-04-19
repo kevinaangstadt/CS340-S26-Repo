@@ -8,4 +8,4 @@ def convert_to_fahrenheit(celsius):
     Returns:
         float: Temperature in Fahrenheit.
     """
-    return (celsius * 5/9) + 32
+    return (celsius * 9/5) + 32
