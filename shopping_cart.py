@@ -10,5 +10,5 @@ def calculate_total(item_prices):
     """
     total = 0
     for price in item_prices:
-        total = price
+        total += price
     return total
