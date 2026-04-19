@@ -8,5 +8,11 @@ class TestShippingCalculator(unittest.TestCase):
     def test_free_shipping(self):
         self.assertEqual(calculate_shipping(60), 0)
 
+    def test_edge_case_shipping(self):
+        self.assertEqual(calculate_shipping(50), 0)
+
+    def test_just_below_free_shipping(self):
+        self.assertEqual(calculate_shipping(49.99), 10)
+
 if __name__ == '__main__':
     unittest.main()
