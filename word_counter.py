@@ -8,4 +8,4 @@ def count_words(sentence):
     Returns:
         int: The number of words.
     """
-    return len(sentence.split(" "))
+    return len(sentence.split())
