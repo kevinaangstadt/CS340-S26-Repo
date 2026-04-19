@@ -1,3 +1,5 @@
+import os
+
 def build_path(folder, filename):
     """
     Constructs a file path from a folder and filename.
@@ -9,4 +11,4 @@ def build_path(folder, filename):
     Returns:
         str: The full path combined correctly.
     """
-    return folder + filename
+    return os.path.join(folder, filename)
