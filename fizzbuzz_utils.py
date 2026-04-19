@@ -14,10 +14,14 @@ def get_fizzbuzz(n):
     Returns:
         str: The FizzBuzz output.
     """
-    if n % 3 == 0:
-        return "Fizz"
+    # check for int input type
+    if type(n) != int:
+        raise TypeError("Must be an int")
+    
+    if n % 15 == 0:
+        return "FizzBuzz"
     elif n % 5 == 0:
         return "Buzz"
-    elif n % 15 == 0:
-        return "FizzBuzz"
+    elif n % 3 == 0:
+        return "Fizz"
     return str(n)
