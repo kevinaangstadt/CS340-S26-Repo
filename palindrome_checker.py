@@ -8,4 +8,4 @@ def is_palindrome(word):
     Returns:
         bool: True if it is a palindrome, False otherwise.
     """
-    return word == word[::-1]
+    return word.lower() == word[::-1].lower()
